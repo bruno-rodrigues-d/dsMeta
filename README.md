@@ -4,6 +4,10 @@
     <img src="https://img.shields.io/github/license/bruno-rodrigues-d/dsMeta?color=362BA9"/>
 </div>
 
+<h1 align="center">
+    <img src="./dsMeta.png">
+</h1>
+
 <h3 align="center">Você pode acessar o projeto <a href="https://vendasteste.netlify.app/" target="_blank">Clicando aqui</a></h3>
 
 ---
