@@ -34,6 +34,7 @@
 <h3 align="center"><a href="https://dsmetabruno.herokuapp.com/" target="_blank">Backend</a></h3>
 ---
 
+
 <br/>
 
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/bruno-rd/">Bruno Rodrigues</a>🏼🚀</p>
+<p align="center"> Developed by <a href="https://www.linkedin.com/in/bruno-rd/">Bruno Rodrigues</a> 🚀</p>
