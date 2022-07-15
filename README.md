@@ -1,7 +1,6 @@
 
 <div align="center">
     <img src="https://img.shields.io/github/repo-size/bruno-rodrigues-d/dsMeta?color=362BA9" />
-    <img src="https://img.shields.io/github/license/bruno-rodrigues-d/dsMeta?color=362BA9"/>
 </div>
 
 <h1 align="center">
@@ -31,11 +30,8 @@
 
 ## 🛠 Você pode testar o projeto, com implantação na nuvem usando CI/CD:
 
-```bash
-# Entre no link do netlify
-https://vendasteste.netlify.app/
-```
-
+<h3 align="center"><a href="https://vendasteste.netlify.app/" target="_blank">Frontend</a></h3>
+<h3 align="center"><a href="https://dsmetabruno.herokuapp.com/" target="_blank">Backend</a></h3>
 ---
 
 <br/>
