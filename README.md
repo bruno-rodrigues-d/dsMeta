@@ -36,14 +36,4 @@
 
 <br/>
 
-## 📝 Licença:
-
-This project is under license. see the file [LICENSE](LICENSE.md) for more details.
-
-<br/>
-
----
-
-<br/>
-
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/bruno-rd/">Bruno Rodrigues</a> ✌🏼</p>
+<p align="center"> Developed by <a href="https://www.linkedin.com/in/bruno-rd/">Bruno Rodrigues</a>🏼🚀</p>
